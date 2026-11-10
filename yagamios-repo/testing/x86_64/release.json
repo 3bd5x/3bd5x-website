@@ -4,65 +4,66 @@
   "repository": "yagami",
   "architecture": "x86_64",
   "keyring": "yagamios-test",
-  "source_commit": "2020918ba0b6bac57e64bc1c1657456815a4fe32",
+  "source_commit": "b2112fce69df7fe7df7bde86e915612b31362694",
   "source_dirty": "no",
+  "source_untracked": "yes",
   "packages": [
     {
       "name": "yagami-branding-0.1.0-1-any.pkg.tar.zst",
-      "size": 736476,
-      "sha256": "bcd790ea04880d6153df579908a8b7d0a6f16e0102697b853ec57424509a99db",
+      "size": 746189,
+      "sha256": "da6c6641148bc36611a62f1e7d0a621437a382612e5e3f772aed72ac2f8eec42",
       "signature": "yagami-branding-0.1.0-1-any.pkg.tar.zst.sig"
     },
     {
       "name": "yagami-core-0.3.0-1-any.pkg.tar.zst",
-      "size": 41906,
-      "sha256": "22063bd088600c5fd65c3241b9241650f8fb906af459c5fde7367e0e7956492a",
+      "size": 42114,
+      "sha256": "b4609e52ee913534a46a4c427422343c23acc48e3d02f892e8251b7a20fc6d57",
       "signature": "yagami-core-0.3.0-1-any.pkg.tar.zst.sig"
     },
     {
       "name": "yagami-desktop-0.1.0-13-any.pkg.tar.zst",
-      "size": 2389990,
-      "sha256": "8b460bf9b3830144a7618534e652da0357840b6ef030b8156e98f497c2079fd7",
+      "size": 2386934,
+      "sha256": "949d1b71e3fabdb58528af0ef3270b371b372f51689f7ac3a9c0e345d015bc01",
       "signature": "yagami-desktop-0.1.0-13-any.pkg.tar.zst.sig"
     },
     {
       "name": "yagami-gaming-0.1.0-1-any.pkg.tar.zst",
-      "size": 28140,
-      "sha256": "9acef5ae94150af09db81a7a640af6968e2d23099ab676bd9a051687300bf42d",
+      "size": 28348,
+      "sha256": "a4647c4159fc4d43ce62429d5fc776e9b11ecfd6e518fd216b105490a3dc62d8",
       "signature": "yagami-gaming-0.1.0-1-any.pkg.tar.zst.sig"
     },
     {
       "name": "yagami-installer-0.4.7-1-any.pkg.tar.zst",
-      "size": 1362050,
-      "sha256": "0c43721c430c8bb03784abb1c2bb90d6a8ce0fd3e0c1dbbbfe78e32e0eb45eb1",
+      "size": 1362417,
+      "sha256": "51441dd6d0b0ebd27b309bb06aa97ef0a2f73ae718449e68bfd73f32cd4ccdab",
       "signature": "yagami-installer-0.4.7-1-any.pkg.tar.zst.sig"
     },
     {
       "name": "yagami-recovery-0.1.0-1-any.pkg.tar.zst",
-      "size": 31395,
-      "sha256": "47854104dc58b61afcfc9b6ddfdc385704f72706e39ea2e804c0fa6353fb9b9f",
+      "size": 31611,
+      "sha256": "a1e39316bca16ea7d0f994fb42784bad7dbb297916c19f4fb41286c8b065c58e",
       "signature": "yagami-recovery-0.1.0-1-any.pkg.tar.zst.sig"
     },
     {
-      "name": "yagami-store-0.1.5-1-any.pkg.tar.zst",
-      "size": 29379,
-      "sha256": "972586edd349f26cf7dc40a12ec5161078eb1b5779a5d993682dc06eed4a92b6",
-      "signature": "yagami-store-0.1.5-1-any.pkg.tar.zst.sig"
+      "name": "yagami-store-0.1.6-1-any.pkg.tar.zst",
+      "size": 29608,
+      "sha256": "d1340c9327b6040de52f6ad6ffacdc9adc1677bf9527da60a4049a1ff57d2a53",
+      "signature": "yagami-store-0.1.6-1-any.pkg.tar.zst.sig"
     },
     {
       "name": "yagami-update-0.2.2-1-any.pkg.tar.zst",
-      "size": 35725,
-      "sha256": "0cc391c9b84e5bc6166d36cf0e707898b95cbc09366d1dfa59badb9328842035",
+      "size": 35963,
+      "sha256": "b4165713e35644de8eb52bd6c6c8b57d9b88647c1082ee7addbe983303453380",
       "signature": "yagami-update-0.2.2-1-any.pkg.tar.zst.sig"
     },
     {
       "name": "yagamios-test-keyring-1-1-any.pkg.tar.zst",
-      "size": 29453,
-      "sha256": "b4357bed81adb23b744d153971a8d04f528aa64ae1c063fc7cb7edb691088309",
+      "size": 29668,
+      "sha256": "01ec6b7a5444779873fdbec29d9a86aceb0f19ad03f3e22ef432a2c5010a7cf6",
       "signature": "yagamios-test-keyring-1-1-any.pkg.tar.zst.sig"
     }
   ],
   "database": "yagami.db",
-  "database_sha256": "b7535988498da00877b99ad30a71aad9c48051ef8738e332c92c9462df860479",
-  "generated": "2026-11-10T10:08:25Z"
+  "database_sha256": "36bb53370d8783767486cafbae99cfe7faaa6d5ac3df2ec49df38c2c4576fafe",
+  "generated": "2026-11-10T11:39:49Z"
 }
